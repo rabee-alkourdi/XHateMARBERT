@@ -2,6 +2,7 @@
 Using XAI and Transformer-based model to improve the detection of hate speech in dialectal Arabic on social media
 
 **ABSTRACT**
+
 The spread of hate speech on social media networks is a dangerous phenomenon that disturbs these networks. Individuals and societies alike suffer from its devastating effects at all levels, as its harm ranges from personal psychological damage to the disintegration of comunities, stirring up sectarian strife, and spreading the culture exclusion. Accordingly, the issue of detecting hate speech receives widespread attention that aims at finding methods, laws and policies that seek to curb the spread of this dangerous behavior. Therefore, researchers from all over the world are making unremitting efforts to study this problem and devise effective ways to combat it: Specifically in building and training different machine learning models to detect it.
 
 Features play a crucial role in training machine learning models and affect the performance of these models directly. However, there have not been many attempts to improve the quality of features used to train hate speech detection models in order to improve their performance. Detecting hate speech also faces many challenges, especially in the Arabic language, due to its linguistic complexities and diverse dialects, which make building effective models difficult. In addition, modern machine learning models lack transparency and clarity regarding their decisions, which makes improving their performance extremely difficult.
